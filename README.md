@@ -26,6 +26,9 @@
 
 - 📫 Feel free to reach me out **yairjesus49@gmail.com**
 
+<a href="https://portafolio-parallax.vercel.app/">Web portfolio
+</a>
+  
 <!--Intro end-->
 
 
@@ -47,9 +50,6 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-<a href="https://portafolio-parallax.vercel.app/">Web portfolio
-</a>
   
 </div>
 
